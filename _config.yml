@@ -22,9 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  name             : "Jenny Bigman"
   avatar           : "images/jenny_bigman_headshot.png"
   
-  name             : "Jenny Bigman"
+  name             : #"Jenny Bigman"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Lewes, DE"
