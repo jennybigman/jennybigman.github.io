@@ -24,12 +24,12 @@ author:
   # Biographic information
   name             : "Jenny Bigman"
   avatar           : "jenny_bigman_headshot.png"
-  
-  #name             : "Jenny Bigman"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Lewes, DE"
-  employer         : "University of Delaware"
+  employer         : |
+      University of Delaware
+      School of Marine Science and Policy
   uri              : # URL
   email            : "jennifersbigman@gmail.com" 
 
