@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "Jenny Bigman"
-  avatar           : "images/jenny_bigman_headshot.png"
+  avatar           : "jenny_bigman_headshot.png"
   
   #name             : "Jenny Bigman"
   pronouns         : # example: "she/her"  
