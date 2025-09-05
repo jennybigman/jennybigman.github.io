@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jenny Bigman / Fisheries Macroecology"
+title                    : "Fisheries Macroecology"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,9 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Jenny Bigman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Lewes, DE"
-  employer         : "School of Marine Science and Policy/n University of Delaware"
+  department       : "School of Marine Science and Policy
+  employer         : "University of Delaware"
   uri              : # URL
   email            : "jennifersbigman@gmail.com" 
 
