@@ -27,9 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Lewes, DE"
-  employer         : |
-      University of Delaware
-      School of Marine Science and Policy
+  employer         : "University of Delaware<br>School of Marine Science and Policy"
   uri              : # URL
   email            : "jennifersbigman@gmail.com" 
 
