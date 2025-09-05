@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "images/jenny_bigman_headshot.png"
   name             : "Jenny Bigman"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Lewes, DE"
   department       : "School of Marine Science and Policy
