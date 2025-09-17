@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-This website is under development
+The Fish Macroecology lab is part of the School of Marine Science and Policy at the University of Delaware. We 
 
