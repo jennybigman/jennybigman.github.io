@@ -25,11 +25,11 @@ author:
   name             : "Jenny Bigman"
   avatar           : "jenny_bigman_headshot.png"
   title            : #"Assistant Professor"
-  bio              : "Assistant Professor"
+  bio              : "I am an Assistant Professor in the School of Marine Science and Policy at the University of Delaware"
   location         : #"Lewes, DE"
-  employer         : "University of Delaware<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Marine Science and Policy"
+  employer         : #"University of Delaware<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Marine Science and Policy"
   uri              : # URL
-  email            : "jennifersbigman@gmail.com" 
+  email            : "jbigman@udel.edu" 
 
   # Academic websites
   academia         : # URL
