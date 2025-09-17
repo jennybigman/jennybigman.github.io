@@ -24,9 +24,9 @@ author:
   # Biographic information
   name             : "Jenny Bigman"
   avatar           : "jenny_bigman_headshot.png"
-  title            : "Assistant Professor"
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Lewes, DE"
+  title            : #"Assistant Professor"
+  bio              : "Assistant Professor"
+  location         : #"Lewes, DE"
   employer         : "University of Delaware<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Marine Science and Policy"
   uri              : # URL
   email            : "jennifersbigman@gmail.com" 
