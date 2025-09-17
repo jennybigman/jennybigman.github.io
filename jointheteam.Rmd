@@ -1,0 +1,7 @@
+---
+layout: single
+title: "Join the Team"
+permalink: /jointheteam/
+---
+
+This is where you can describe your research interests, projects, or lab focus.
