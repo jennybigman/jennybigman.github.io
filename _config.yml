@@ -24,7 +24,7 @@ author:
   # Biographic information
   name             : "Jenny Bigman"
   avatar           : "jenny_bigman_headshot.png"
-  pronouns         : # example: "she/her"  
+  title            : "Assistant Professor"
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Lewes, DE"
   employer         : "University of Delaware<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Marine Science and Policy"
