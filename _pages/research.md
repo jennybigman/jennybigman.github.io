@@ -11,7 +11,7 @@ author_profile: true
 
 While a range of biological responses to warming are predicted to occur, three are thought to be generally universal across  species: shifting geographic distributions, changes in phenology, and changes in size and growth. Our work examines these responses in fishes across levels of biological organization and geographic scales and ims to forecast future change and what it means for marine ecosystems and the services they provide.
 
-For example, we've identified whether environmental conditions affect spatial and temporal patterns of growth and size across commercially important fish species [DOI link] and mapped past and future changes in spawning habitat with temperature for Pacific cod [DOI link]. 
+For example, we've identified whether environmental conditions affect spatial and temporal patterns of growth and size across commercially important fish species [paper](https://www.biorxiv.org/content/10.1101/2025.09.02.673738v1.abstract) and mapped past and future changes in spawning habitat with temperature for Pacific cod [DOI link]. 
 
 Work with collaborators has examined changes in larval size-at-date with temperature in high-latitude systems, how population growth rate varies across fishes, how population growth rate varies temperature, depth, and body mass across rays and skates [DOI link], and how length-at-maturity varies with maximum length across fishes [DOI link].
 
