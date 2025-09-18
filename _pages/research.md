@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
-
 ---
+
 # Our research examines how climate change is affecting fish and the ecosystems in ehich they live, with the goal of addressing real-world challenges such as sustainble fisheries. We combine macroecological theory and quantitative approaches to answer applied questions and advance the field of ecology. 
 
 ## Our work is centered around three questions:
