@@ -5,11 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Our group examines how climate change affectes fishes and the ecosystems in which they live, with the goal of addressing real-world challenges such as sustainble fisheries. We combine macroecological theory and quantitative approaches to answer applied questions and advance ecology.
+Our group examines how climate change affectes fishes and the ecosystems in which they live, with the goal of addressing real-world challenges such as sustainble fisheries. We combine macroecological theory and quantitative approaches to answer applied questions and advance ecology.
 
-
-
-### How will species and ecosystems respond to environmental change? 
+How will species and ecosystems respond to environmental change? 
 
 While a range of biological responses to warming are predicted to occur, three are thought to be generally universal across  species: shifting geographic distributions, changes in phenology, and changes in size and growth. Our work examines these responses in fishes across levels of biological organization and geographic scales and ims to forecast future change and what it means for marine ecosystems and the services they provide.
 
@@ -19,13 +17,13 @@ Work with collaborators has examined changes in larval size-at-date with tempera
 
 Once we know how and why species are changing, we can evaluate impacts on ecosystems and the services they provide, including fisheries. We integrate quantitative modeling with oceanographic data and models to forecast biological change and its consequences for marine systems and fisheries.
 
-## What are the fundamental processes that underlie biological change?
+What are the fundamental processes that underlie biological change?
 
 To predict how future change will affect the ecology of fishes, we must understand the proceses that govern species' responses. Our work in this area investigates why fishes respond to environmental change and whether ecological theory can help us identify the underlying forces driving such change. 
 
 Work in this area has examined whether the demography and extinction risk of populations is affected by the interplay of temperature, ecology, and physiology [(Barrowclift <em>et al. in review</em>](https://www.biorxiv.org/content/10.1101/2024.01.02.573919v2); [Wong <em>et al. 2021 a</em>](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0910); [Wong <em>et al.</em> 2021 <em>b</em>](); [Gravel <em>et al.</em> 2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12811), quantified how oxygen uptake varies with temperature and size across fishes and other vertebrates [(Bigman <em>et al.</em> 2021)](https://www.science.org/doi/full/10.1126/sciadv.abe5163), explored whether oxygen is important in explaining patterns of growth across fishes ([Bigman <em>et al.</em> 2023 <em>a</em>)](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12757); [Bigman <em>et al.</em> 2023 <em>b</em>](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12730); [Prinzing <em>et al.</em> 2023](https://journals.biologists.com/jeb/article/226/15/jeb246054/325844)), and has evaluated proxies of metabolic demand for linking to temperature and environmental conditions ([Bigman <em>et al.</em> 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20879); [Vanderwright <em>et al.</em> 2020](https://academic.oup.com/conphys/article/8/1/coaa102/6020068)). 
 
-## Best practices in quantitative modeling 
+Best practices in quantitative modeling 
 
 Working across scales, fields, and data types raises computational challenges. We develop novel quantitative approches and identify best practices in quantitative ecology. For example, we explored the consequence of model selection for understanding  the effects of temperature and oxygen on size and growth [(Bigman <em>et al. in review</em>)](https://www.biorxiv.org/content/10.1101/2025.09.02.673738v1.abstract) and developed novel Bayesian statistical frameworks to propagate uncertainty in relationships within species when examined across species [(Bigman <em>et al.<em> 2021](https://www.science.org/doi/full/10.1126/sciadv.abe5163); [Bigman <em>et al.</em> 2023 <em>a</em>](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12757); [Bigman <em>et al.</em> 2023 <em>b</em>)](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12730). Additionally, our work includes understanding how the complex nature of spatiotemporal models affects our understanding of species’ responses to climate change (Bigman et al. in prep a). We are active in the open science movement and write papers that call for data standardization and best practices when using big data (e.g., [Audzijonyte et al. 2025](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70296)). 
 
