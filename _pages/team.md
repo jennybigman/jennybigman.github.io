@@ -11,4 +11,4 @@ __Jenny Bigman__ is a quantitative eologist and an Assistant Professor in the Sc
 
 ** Graduate Students **
 
-Interested in joining the team? See [Join the Team]({{ '/join the team/' | relative_url }})
+Interested in joining the team? See [Join the Team](/join the team/)
