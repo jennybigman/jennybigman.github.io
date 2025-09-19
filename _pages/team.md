@@ -5,13 +5,8 @@ permalink: /team/
 author_profile: true
 ---
 
-<img src="{{ '/images/research_photo.jpg' | relative_url }}" alt="Jenny Bigman" width="200">
 
-## Jenny Bigman <br>
-Assistant Professor<br>
-School of Marine Science and Policy<br>
-University of Delaware<br>
-[CV](Bigman-CV-Sep2025.pdf)
+Jenny Bigman is a quantitative eologist and an Assistant Professor in the School of Marine Science and Policy at the University of Delaware and is based at the Hugh R. Sharp campus in Lewes, DE. Prior to joining UD, Jenny was a postdoctoral fellow and Fish Biologist at NOAA Fisheries, She combines macroecology and fisheries science to answer applied questions and advance ecological theory. Please see [Google Scholar](https://scholar.google.com/citations?user=QV_j91EAAAAJ&hl=en) for her publications and her [CV](Bigman-CV-Sep2025.pdf)
 
 
 ** Graduate Students **
