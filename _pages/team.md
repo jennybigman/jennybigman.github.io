@@ -5,8 +5,9 @@ permalink: /team/
 author_profile: true
 ---
 
-<img src="/images/research_photo.jpg" alt="Jenny Bigman" width="200">
-**Jenny Bigman**
+<img src="{{ '/images/research_photo.jpg' | relative_url }}" alt="Jenny Bigman" width="200">
+
+## Jenny Bigman <br>
 Assistant Professor<br>
 School of Marine Science and Policy<br>
 University of Delaware<br>
