@@ -17,6 +17,8 @@ url                      : https://jennybigman.github.io # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/jennybigman"
 
+academicons: true 
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -30,21 +32,6 @@ author:
   employer         : #"University of Delaware<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Marine Science and Policy"
   uri              : # URL
   email            : "jbigman@udel.edu" 
-
-   links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=QV_j91EAAAAJ&hl=en&oi=ao"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0001-8070-3061"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/jennybigman"
-    # optional: show a CV button in the sidebar
-    - label: "CV (PDF)"
-      icon: "fas fa-file-pdf"
-      url: "/files/CV.pdf"
 
   # Academic websites
   academia         : # URL
