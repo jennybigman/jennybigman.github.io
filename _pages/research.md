@@ -5,11 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## We examine how climate change affectes fishes and the ecosystems in which they live, with the goal of addressing real-world challenges such as sustainble fisheries. We combine macroecological theory and quantitative approaches to answer applied questions and advance ecology. 
-
-## How will species and ecosystems respond to environmental change?
-
-While a range of biological responses to warming are predicted to occur, three are thought to be generally universal across  species: shifting geographic distributions, changes in phenology, and changes in size and growth. Our work examines these responses in fishes across levels of biological organization and geographic scales and ims to forecast future change and what it means for marine ecosystems and the services they provide.
+We examine how climate change affectes fishes and the ecosystems in which they live, with the goal of addressing real-world challenges such as sustainble fisheries. We combine macroecological theory and quantitative approaches to answer applied questions and advance ecology. How will species and ecosystems respond to environmental change? While a range of biological responses to warming are predicted to occur, three are thought to be generally universal across  species: shifting geographic distributions, changes in phenology, and changes in size and growth. Our work examines these responses in fishes across levels of biological organization and geographic scales and ims to forecast future change and what it means for marine ecosystems and the services they provide.
 
 For example, we've identified whether environmental conditions affect spatial and temporal patterns of growth and size across commercially important fish species [(Bigman <em>et al. in review</em>)](https://www.biorxiv.org/content/10.1101/2025.09.02.673738v1.abstract) and mapped past and future changes in spawning habitat with temperature for Pacific cod [(Bigman <em>et al.</em> 2023)](https://academic.oup.com/icesjms/article/82/1/fsad096/7204287). 
 
