@@ -19,12 +19,12 @@ main:
     url: /team/
     
   - title: "Join the Team"
-    url: /team/
+    url: /join the team/
      
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
+ # - title: "CV"
     url: /cv/
     
   # - title: "CV"
