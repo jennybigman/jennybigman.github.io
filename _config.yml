@@ -23,15 +23,26 @@ academicons: true
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  name             : "Jenny Bigman"
-  avatar           : "jenny_bigman_headshot.png"
-  title            : #"Assistant Professor"
-  bio              : "Assistant Professor<br>School of Marine Science & Policy<br>University of Delaware<br>Lewes, DE"
-  location         : #"Lewes, DE"
-  employer         : #"University of Delaware<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Marine Science and Policy"
-  uri              : # URL
-  email            : "jbigman@udel.edu" 
+  name: "Jenny Bigman"
+  # put the image file at /images/jenny_bigman_headshot.png
+  avatar: "/images/jenny_bigman_headshot.png"
+  bio: "Assistant Professor<br>School of Marine Science & Policy<br>University of Delaware<br>Lewes, DE"
+  email: "jbigman@udel.edu"
+
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=QV_j91EAAAAJ&hl=en&oi=ao"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-8070-3061"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/jennybigman"
+    # optional: show a CV button in the sidebar
+    - label: "CV (PDF)"
+      icon: "fas fa-file-pdf"
+      url: "/files/CV.pdf"
 
   # Academic websites
   academia         : # URL
