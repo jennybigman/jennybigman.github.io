@@ -31,6 +31,21 @@ author:
   uri              : # URL
   email            : "jbigman@udel.edu" 
 
+   links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=QV_j91EAAAAJ&hl=en&oi=ao"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-8070-3061"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/jennybigman"
+    # optional: show a CV button in the sidebar
+    - label: "CV (PDF)"
+      icon: "fas fa-file-pdf"
+      url: "/files/CV.pdf"
+
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
