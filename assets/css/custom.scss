@@ -1,26 +1,23 @@
 ---
-# Front matter — needed so Jekyll processes this SCSS
 ---
-
-/* ---------------------------
-   1. Author photo (sidebar)
-   --------------------------- */
+/* 1) Author photo: square, no border */
 .author__avatar img {
-  border-radius: 8px;   /* square corners */
-  border: none;       /* no gray border */
+  border-radius: 0 !important;   /* use 0 for square corners */
+  border: none !important;
 }
 
-/* ---------------------------
-   2. Remove "Sitemap" footer
-   --------------------------- */
+/* 2) Hide the footer sitemap block (optional) */
 .site-footer .footer__nav {
-  display: none;
+  display: none !important;
 }
 
-/* ---------------------------
-   3. Remove lines under H2 headings
-   --------------------------- */
+/* 3) Remove heading underlines (H1/H2), and any HR lines in content */
+.page__content h1,
 .page__content h2 {
-  border-bottom: none;
+  border-bottom: 0 !important;
+  box-shadow: none !important; /* belt-and-suspenders */
 }
-
+.page__content h2::after,
+.page__content h1::after {
+  content: none !important;
+}
