@@ -5,11 +5,11 @@ permalink: /team/
 author_profile: true
 ---
 
-<img src="/images/research_photo.JPG" alt="Jenny Bigman" width="200">
+<img src="/images/research_photo.jpg" alt="Jenny Bigman" width="200">
 **Jenny Bigman**
-Assistant Professor
-School of Marine Science and Policy
-University of Delaware
+Assistant Professor<br>
+School of Marine Science and Policy<br>
+University of Delaware<br>
 [CV](Bigman-CV-Sep2025.pdf)
 
 
