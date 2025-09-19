@@ -19,3 +19,41 @@
 
 
 <!-- end custom head snippets -->
+
+<style>
+/* Remove underline/border from the big page title */
+.page__title { border-bottom: 0 !important; box-shadow: none !important; }
+
+/* Remove underline/border from ALL headings in page content */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  border: 0 !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  background: none !important;
+}
+
+/* Just in case the theme uses pseudo-elements */
+.page__content h1::before,
+.page__content h1::after,
+.page__content h2::before,
+.page__content h2::after,
+.page__content h3::before,
+.page__content h3::after,
+.page__content h4::before,
+.page__content h4::after,
+.page__content h5::before,
+.page__content h5::after,
+.page__content h6::before,
+.page__content h6::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Hide any horizontal rules that might show up */
+.page__content hr { display: none !important; }
+</style>
