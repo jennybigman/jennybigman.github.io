@@ -1,15 +1,4 @@
-
-<!--{% include base_path %}-->
-
-
-
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>&nbsp;&amp;&nbsp;<a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}
-</div>
-
-
-<!-- {% include base_path %}
+{% include base_path %}
 
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
@@ -34,23 +23,3 @@
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
--->
-
-<!-- <footer class="page__footer">
-  <div class="page__footer-follow">
-    {% assign a = site.author %}
- <!--   <ul class="social-icons" style="list-style:none; padding-left:0; margin:0;">
-      {% if a.email %}<li style="display:inline; margin-right:0.75rem;"><a href="mailto:{{ a.email }}">Email</a></li>{% endif %}
-      {% if a.github %}<li style="display:inline; margin-right:0.75rem;"><a href="https://github.com/{{ a.github }}">GitHub</a></li>{% endif %}
-      {% if a.linkedin %}<li style="display:inline; margin-right:0.75rem;"><a href="https://www.linkedin.com/in/{{ a.linkedin }}">LinkedIn</a></li>{% endif %}
-      {% if a.twitter %}<li style="display:inline; margin-right:0.75rem;"><a href="https://twitter.com/{{ a.twitter }}">Twitter</a></li>{% endif %}
-      {% if a.website %}<li style="display:inline; margin-right:0.75rem;"><a href="{{ a.website }}">Website</a></li>{% endif %}
-    </ul>
-  </div>
-
-  <div class="page__footer-copyright">
-    &copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }}.
-    Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> and
-    <a href="https://github.com/academicpages/academicpages.github.io" rel="nofollow">AcademicPages</a>.
-  </div>
-</footer>-->
