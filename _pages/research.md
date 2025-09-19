@@ -1,3 +1,11 @@
+
+---
+layout: single
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 <style>
 .page__content h1,
 .page__content h2,
@@ -10,14 +18,6 @@
 .page__content h3::after { content: none !important; }
 .page__content hr { display: none !important; }
 </style>
-
----
-layout: single
-title: "Research"
-permalink: /research/
-author_profile: true
----
-
 
 
 ## Our group examines how climate change affectes fishes and the ecosystems in which they live, with the goal of addressing real-world challenges such as sustainble fisheries. We combine macroecological theory and quantitative approaches to answer applied questions and advance ecology.
