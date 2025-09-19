@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -23,11 +24,15 @@ academicons: true
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name: "Jenny Bigman"
-  # put the image file at /images/jenny_bigman_headshot.png
-  avatar: "/images/jenny_bigman_headshot.png"
-  bio: "Assistant Professor<br>School of Marine Science & Policy<br>University of Delaware<br>Lewes, DE"
-  email: "jbigman@udel.edu"
+  # Biographic information
+  name             : "Jenny Bigman"
+  avatar           : "jenny_bigman_headshot.png"
+  title            : #"Assistant Professor"
+  bio              : "Assistant Professor<br>School of Marine Science & Policy<br>University of Delaware<br>Lewes, DE"
+  location         : #"Lewes, DE"
+  employer         : #"University of Delaware<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Marine Science and Policy"
+  uri              : # URL
+  email            : "jbigman@udel.edu" 
 
   # Academic websites
   academia         : # URL
