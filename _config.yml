@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "The Fish Macroecology Research Group"
+title                    : "Fish Macroecology"
 title_separator          : "-"
 name                     : &name "Jenny Bigman"
 description              : &description "Assistant Professor"
