@@ -8,8 +8,9 @@ author_profile: true
 Thank you for your interest in joining our group. Work in the Fish Mac research group is computational - meaning that we use statistical or other mathematical models fitted to existing data (or simulations) to address our research questions. This means we rarely collect field or laboratory data ourselves. Successful students will have an interest in fish or fisheries, using theory to answer applied questions, and either have prior experience with coding and statistics or be willing to learn. 
 
 **Graduate student position available at University of Delaware**<br>
-The Fish Macroecology Research Group at the University of Delaware is seeking a motivated Master’s student to join our team starting in Fall 2026. Our group studies how climate change shapes the ecology of commercially important fishes, with a focus on questions that connect science to management and policy. The student will combine data from fisheries surveys with oceanographic models and databases into statistical models to understand how climate change has affected and will continue to affect key processes such as life histories (e.g., growth, size-at-age), population dynamics, and geographic distributions. Specific research projects will be developed collaboratively and work will involve both UD faculty and NOAA Fisheries scientists.
-We are looking for:
+The Fish Macroecology Research Group at the University of Delaware is seeking a motivated Master’s student to join our team starting in Fall 2026. Our group studies how climate change shapes the ecology of commercially important fishes, with a focus on questions that connect science to management and policy. The student will combine data from fisheries surveys with oceanographic models and databases into statistical models to understand how climate change has affected and will continue to affect key processes such as life histories (e.g., growth, size-at-age), population dynamics, and geographic distributions. Specific research projects will be developed collaboratively and work will involve both UD faculty and NOAA Fisheries scientists.<br>
+
+We are looking for:<br>
 
 Strong quantitative skills or an interest in developing them
 
