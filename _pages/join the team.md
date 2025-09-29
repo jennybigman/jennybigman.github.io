@@ -11,13 +11,10 @@ Thank you for your interest in joining our group. Work in the Fish Mac research 
 The Fish Macroecology Research Group at the University of Delaware is seeking a motivated Master’s student to join our team starting in Fall 2026. Our group studies how climate change shapes the ecology of commercially important fishes, with a focus on questions that connect science to management and policy. The student will combine data from fisheries surveys with oceanographic models and databases into statistical models to understand how climate change has affected and will continue to affect key processes such as life histories (e.g., growth, size-at-age), population dynamics, and geographic distributions. Specific research projects will be developed collaboratively and work will involve both UD faculty and NOAA Fisheries scientists.<br>
 
 
-We are looking for:<br>
-
-Strong quantitative skills or an interest in developing them
-
-A background in ecology, fisheries science, marine biology, or a related field
-
-Enthusiasm for working on applied research that informs management and conservation
+We are looking for students with:<br>
+1. strong quantitative skills or an interest in developing them
+2. a background in ecology, fisheries science, marine biology, or a related field
+3. enthusiasm for working on applied research that informs management and conservation
 
 To apply:
 Interested students should contact Dr. Jenny Bigman (Assistant Professor, University of Delaware) before applying at jbigman@udel.edu. To apply, please send **one** pdf file with the following information:
