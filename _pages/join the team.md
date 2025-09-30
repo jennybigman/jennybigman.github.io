@@ -11,15 +11,15 @@ Thank you for your interest in joining our group. Work in the Fish Mac research 
 The Fish Macroecology Research Group at the University of Delaware is seeking a motivated master’s student to join our team starting in Fall 2026. Our group studies how climate change shapes the ecology of commercially important fishes, with a focus on research questions that inform management and policy. The student will integrate fisheries survey data with oceanographic models and databases into statistical models to understand the past and future effects of climate change on processes such as life histories (e.g., growth, size-at-age), population dynamics, and geographic distributions. Specific research projects will be developed collaboratively and will involve both UD faculty and researchers at NOAA Fisheries.
 
 **Required Qualifications:**<br>
-Bachelor’s degree in marine science, ecology, fisheries science, biology, or related discipline 
-Demonstrated interest in quantitative ecology, data science, and statistics
-Self-motivated, organized, ability to work independently and collaboratively 
+- Bachelor’s degree in marine science, ecology, fisheries science, biology, or related discipline 
+- Demonstrated interest in quantitative ecology, data science, and statistics
+- Self-motivated, organized, ability to work independently and collaboratively 
 
 **Preferred Qualifications:**<br>
-Experience in quantitative ecology, data science, and/or statistics
-Programming experience in R 
-Experience conducting research in the natural sciences 
-Experience with scientific writing
+- Experience in quantitative ecology, data science, and/or statistics
+- Programming experience in R 
+- Experience conducting research in the natural sciences 
+- Experience with scientific writing
 
 **Location:**<br> 
 The Fish Macroecology group is based in the School of Marine Science and Policy in the College of Earth, Ocean, and the Environment at the University of Delaware. The position will be based at the Hugh R. Sharp campus in Lewes, DE.
