@@ -7,24 +7,35 @@ author_profile: true
 
 Thank you for your interest in joining our group. Work in the Fish Mac research group is computational - meaning that we use statistical or other mathematical models fitted to existing data (or simulations) to address our research questions. This means we rarely collect field or laboratory data ourselves. Successful students will have an interest in fish or fisheries, using theory to answer applied questions, and either have prior experience with coding and statistics or be willing to learn. 
 
-**Graduate student position available at University of Delaware**<br>
-The Fish Macroecology Research Group at the University of Delaware is seeking a motivated Master’s student to join our team starting in Fall 2026. Our group studies how climate change shapes the ecology of commercially important fishes, with a focus on questions that connect science to management and policy. The student will combine data from fisheries surveys with oceanographic models and databases into statistical models to understand how climate change has affected and will continue to affect key processes such as life histories (e.g., growth, size-at-age), population dynamics, and geographic distributions. Specific research projects will be developed collaboratively and work will involve both UD faculty and NOAA Fisheries scientists.<br>
+**Graduate student position available at University of Delaware**
 
+The Fish Macroecology Research Group at the University of Delaware is seeking a motivated master’s student to join our team starting in Fall 2026. Our group studies how climate change shapes the ecology of commercially important fishes, with a focus on research questions that inform management and policy. The student will integrate fisheries survey data with oceanographic models and databases into statistical models to understand the past and future effects of climate change on processes such as life histories (e.g., growth, size-at-age), population dynamics, and geographic distributions. Specific research projects will be developed collaboratively and will involve both UD faculty and researchers at NOAA Fisheries.
 
-We are looking for students with:<br>
-1. strong quantitative skills or an interest in developing them
-2. a background in ecology, fisheries science, marine biology, or a related field
-3. enthusiasm for working on applied research that informs management and conservation
+**Required Qualifications:**
+Bachelor’s degree in marine science, ecology, fisheries science, biology, or related discipline 
+Demonstrated interest in quantitative ecology, data science, and statistics
+Self-motivated, organized, ability to work independently and collaboratively 
 
-To apply:
-Interested students should contact Dr. Jenny Bigman (Assistant Professor, University of Delaware) before applying at jbigman@udel.edu. To apply, please send **one** pdf file with the following information:
-1. Cover letter outlining background, career goals, why interested in joining the Fish Mac group
-1. Current CV 
-2. Unofficial transcripts
-3. Writing sample (prior research paper, proposal, etc.)
-4. Short summary (no more than 1 page) of a project that you would want to work on
+**Preferred Qualifications:**
+Experience in quantitative ecology, data science, and/or statistics
+Programming experience in R 
+Experience conducting research in the natural sciences 
+Experience with scientific writing
 
-Applications will be reviewed on a rolling basis.
+**Location:** 
+The Fish Macroecology group is based in the School of Marine Science and Policy in the College of Earth, Ocean, and the Environment at the University of Delaware. The position will be based at the Hugh R. Sharp campus in Lewes, DE.
+
+**To apply:**
+Interested students should contact Dr. Jenny Bigman (Assistant Professor, University of Delaware) at jbigman@udel.edu before submitting a formal application for graduate school to UD. Please send a single PDF file that includes:
+  1. Cover letter outlining background, career goals, interests in joining Fish Mac group and UD SMSP/CEOE
+  2. Curriculum vitae (CV) 
+  3. Short statement of research interests (1 page max)
+  4. Writing sample (e.g., a publication, proposal, research paper)
+  5. Unofficial transcripts
+  6. Name and contact information for two professional references
+
+Please see [UD’s Graduate Admission’s website](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) for more information on the UD application process.
+
 
 Outside of this opportunity, we are always looking for motivated students who are interested in the work that we do. Funding for graduate students at UD SMSP comes from grants, so availability of positions can be limited. If you are interested, please email jbigman@udel.edu. 
 
