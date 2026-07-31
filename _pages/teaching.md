@@ -5,4 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## More coming soon! 
+## Current courses
+
+I currently teach Marine Ecology and Skill Build in R (a data science / modeling class). 
