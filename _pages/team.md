@@ -11,4 +11,5 @@ __Jenny Bigman__ is a quantitative ecologist and an Assistant Professor in the S
 
 **Graduate Students**
 
-Interested in joining the team? See [Join the Team](/join the team/)
+![Jeannine Doyle](images/1000014447.jpeg){width=200px}
+__Jeannine Doyle__ joined the Fish Mac Lab at the University of Delaware in fall 2026 after earning her B.S. in Fisheries and Wildlife Management from Northern Michigan University. Her current research explores how age-specific distributions of commercially important fish species shift in response to changing environmental conditions along the U.S. East Coast.
